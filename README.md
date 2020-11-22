@@ -9,5 +9,6 @@
  - 正在准备拥有一个属于自己的, 自由开放的 Minecraft 服务器, 并打算使用 `pterodactyl`, QQ/Telegram/Discord 机器人, `FastAPI`, `react` 等技术栈构建完善的全自动管理系统;
  - `东方 Project (Touhou Project)` 的一位普通的爱好者, 可能有做相关项目的意向;
  - 现在基本不玩游戏, 但会关注社区动向.
+ - 现已将这个个人介绍项目的 [ISSUE](https://github.com/GreyElaina/GreyElaina/issues) 区作为本人的个人留言区, 欢迎留言.
 
 > "日复一日, 魔女编制出相逢, 重逢与离别的故事."
